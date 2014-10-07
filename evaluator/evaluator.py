@@ -18,7 +18,7 @@ class Evaluate(Command):
         return parser
 
     def take_action(self, parsed_args):
-        """Override take_action to create and write to files"""
+        """Override take_action to parse input args and evaluate hand"""
         a = []
         for i in parsed_args.eval:
             a.append(i)
