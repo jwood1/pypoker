@@ -3,7 +3,7 @@
 PROJECT = 'pypoker'
 
 # Change docs/sphinx/conf.py too!
-VERSION = '0.0.1a'
+VERSION = '0.0.2a'
 
 from setuptools import setup, find_packages
 
@@ -23,7 +23,7 @@ setup(
     author_email='jamesbeedy@gmail.com',
 
     url='https://github.com/jamesbeedy/pypoker',
-    download_url='https://github.com/jamesbeedy/pypoker/archive/v0.0.1a.tar.gz',
+    download_url='https://github.com/jamesbeedy/pypoker/archive/v0.0.2a.tar.gz',
 
     # 1.2.0.dev1  # Development release
     # 1.2.0 a1     # Alpha Release

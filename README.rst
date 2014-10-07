@@ -8,7 +8,7 @@ Installation
 
 To install `pypoker`:
 
-	$ pip install pypoker==0.0.1a
+	$ pip install pypoker==0.0.2a
 
 Usage
 ------
