@@ -36,7 +36,7 @@ class Hand(object):
     def has_straight(self):
         for i in range(0, len(self.values)-2):
             if self.values[i]+1 != self.values[i+1]:
-                 return False
+                return False
         return True
 
     def has_pair(self):
