@@ -1,7 +1,4 @@
 import logging
-import sys
-import os
-from distutils.dir_util import mkpath
 from cliff.command import Command
 from hand import Hand
 
