@@ -9,6 +9,8 @@ Installation
 To install `pypoker`:
 
 	$ pip install pypoker==0.0.2a
+	or
+	$ pip3 install pypoker==0.0.2a (python3) 
 
 Usage
 ------
